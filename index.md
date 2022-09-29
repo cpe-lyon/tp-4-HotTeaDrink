@@ -110,7 +110,7 @@ On peut afficher les programmes à l'aide de la commande suivante:
 dpkg -L coreutils
 ```
 
-Le paquet **[** correspond a un synonime de test.
+Le paquet **[** correspond a un synonyme de test.
 
 ## Exercice 5
 
