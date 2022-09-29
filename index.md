@@ -114,3 +114,19 @@ Le paquet **[** correspond a un synonyme de test.
 
 ## Exercice 5
 
+Emac et lynx sont tous deux des navigateur internet qui fonctionne dans un terminal
+
+## Exercice 6
+
+2. Le fichier contient les répositoris suivants:
+
+```BASH
+deb https://ppa.launchpadcontent.net/linuxuprising/java/ubuntu/ jammy main
+# deb-src https://ppa.launchpadcontent.net/linuxuprising/java/ubuntu/ jammy main
+```
+
+## Exercice 7
+
+## Exercice 8
+
+TODO demander ou est l'erreur dans l'enoncer
